@@ -1,0 +1,25 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	user-select: none
+}
+
+#border{
+	border: solid 5px;
+    height: 500px;
+    width: 500px;
+    border-radius: 30px;
+}
+
+img{height:500px; position:absolute;top:0;left:0;}
+
+ .class1{opacity:0; transition:.9s;}
+ .class2{opacity:0; transition:.9s;}
+ .class3{opacity:0; transition:.9s;}
+ .class4{opacity:0; transition:.9s;}
+ .class5{opacity:0; transition:.9s;}
+ .class6{opacity:0; transition:.9s;}
+ .class7{opacity:0; transition:.9s;}
+
+ #show {opacity:1;transition:.9s;}
